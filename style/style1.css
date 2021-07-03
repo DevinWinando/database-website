@@ -1,0 +1,9 @@
+.background {
+  width: 20rem;
+  height: 20rem;
+  border-style: groove;
+  border-radius: 20%;
+}
+.login-button {
+  width: 20px;
+}

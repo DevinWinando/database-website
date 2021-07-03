@@ -1,0 +1,22 @@
+body {
+  color: #fff;
+}
+.jumbotron {
+  padding-top: 2rem;
+  background-color: #1b2a49;
+}
+.bgcolor,
+.btnn {
+  background-color: #1b2a49 !important;
+  color: #fff;
+}
+.about {
+  background-color: #1b262c;
+}
+.contact {
+  margin-top: 100px;
+}
+.link {
+  text-decoration: none;
+  font-size: 25px;
+}
